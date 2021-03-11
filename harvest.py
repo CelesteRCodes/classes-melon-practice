@@ -39,17 +39,6 @@ class MelonType(object):
         #        print(f" Bestseller: {self.is_bestseller}")
         
 
-# class Animal:
-
-#   def speak(self, greet='Hey'):
-#        print(f"{greet}, I'm {self.name} the {self.species}")
-
-
-# class Cat(Animal):
-
- #   def speak(self):
- #       super().speak('Meow')
-
 
         self.pairings = []
 
